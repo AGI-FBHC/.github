@@ -13,5 +13,7 @@
 本团队名称由“人工智能与模式识别技术研发中心(2010年由王士同教授作为负责人成立)”更新为：“通用人工智能&食品生物健康计算交叉研究中心(现负责人为邓赵红教授)”。热烈欢迎各方相关人士和单位前来交流合作。通用人工智能&食品生物健康计算交叉研究中心简称：AGI&FBHC。
 
 <p align="center">
-<img src="doc/image/gpt1trans.png" width=100%/>
+<b>AGI&FBHC研究中心的Logo</b><br>
+<img src="doc/image/gpt1trans.png" width=30%/> 
+
 </p>
