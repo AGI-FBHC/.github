@@ -1,2 +1,2 @@
 # .github
-JNU AIPR
+AGI&FBHC
